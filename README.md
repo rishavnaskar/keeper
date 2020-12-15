@@ -1,2 +1,2 @@
 # keeper
-A basic note keeper app using MERN stack.
+A note keeper app using MERN stack. (Google keep clone)
